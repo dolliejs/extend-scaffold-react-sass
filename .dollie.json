@@ -1,0 +1,18 @@
+{
+  "installers": [],
+  "files": {
+    "add": [
+      "src/App.scss"
+    ],
+    "delete": [
+      "src/App.css",
+      "src/index.css"
+    ],
+    "merge": [
+      "src/App.js",
+      "src/App.tsx",
+      "config/webpack.config.js",
+      "package.json"
+    ]
+  }
+}
