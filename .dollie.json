@@ -12,5 +12,6 @@
       "config/webpack.config.js",
       "package.json"
     ]
-  }
+  },
+  "endScripts": ["ls -al"]
 }
