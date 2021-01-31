@@ -5,12 +5,10 @@
       "src/App.scss"
     ],
     "delete": [
-      "src/App.css",
-      "src/index.css"
+      "src/App.(css|less|styl)"
     ],
     "merge": [
-      "src/App.js",
-      "src/App.tsx",
+      "src/App.(js|tsx)",
       "config/webpack.config.js",
       "package.json"
     ]
