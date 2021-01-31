@@ -7,7 +7,7 @@
     "delete": [
       "src/App.css",
       "src/App.styl",
-      "src/App.less",
+      "src/App.less"
     ],
     "merge": [
       "src/App.(js|tsx)",
