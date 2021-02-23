@@ -1,19 +1,15 @@
 {
-  "installers": [],
   "files": {
     "add": [
       "src/App.scss"
     ],
     "delete": [
-      "src/App.css",
-      "src/App.styl",
-      "src/App.less"
+      "src/**/*.{css,styl,less}",
     ],
     "merge": [
-      "src/App.(js|tsx)",
+      "src/App.{js,tsx}",
       "config/webpack.config.js",
       "package.json"
     ]
   },
-  "endScripts": ["ls -al"]
 }
